@@ -4,9 +4,8 @@
 
 I'm a passionate DevOps Engineer with over 1 year of experience in building and optimizing CI/CD pipelines, automating workflows, and ensuring seamless software delivery. I thrive in dynamic environments where technology and innovation intersect to drive impactful solutions.
 
-- 💼 DevOps Engineer at [Your Company/Organization]
-- 🌐 Check out my portfolio: [vishalkushwah.dev](https://www.vishalkushwah.dev)
-- 📧 Connect with me: [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- 💼 DevOps Engineer at Blink Health
+- 📧 Connect with me: https://www.linkedin.com/in/vishal-%F0%9F%8C%A8%EF%B8%8F-273878192/
 
 ## Expertise
 
@@ -14,18 +13,18 @@ I'm a passionate DevOps Engineer with over 1 year of experience in building and 
 - **Automation:** Scripting and automating repetitive tasks using tools like Bash, Python, and Ansible.
 - **Cloud Technologies:** Proficient in leveraging cloud platforms such as AWS, Azure, and GCP for scalable and reliable infrastructure.
 - **Containerization:** Dockerizing applications for consistency across different environments.
-- **Monitoring and Logging:** Setting up monitoring and logging solutions (e.g., Prometheus, Grafana, ELK stack) for proactive issue detection.
+- **Monitoring and Logging:** Setting up monitoring and logging solutions (e.g., Prometheus, Grafana) for proactive issue detection.
 - **Version Control:** Expertise in Git and Git workflows for efficient collaboration and version management.
 
 ## Projects
 
-### Project Name 1
+### DevSecOps Project
 
 Brief description of the project and your role. Highlight the technologies and tools you used, challenges you overcame, and the impact it had.
 
 Repository: [Project 1 Repo](https://github.com/kushwahvishal939/DevSecOps-project)
 
-### Project Name 2
+### E-Commerce Project
 
 Brief description of the project and your role. Highlight the technologies and tools you used, challenges you overcame, and the impact it had.
 
