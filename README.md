@@ -2,10 +2,8 @@
 
 ## About Me
 
-I'm a passionate DevOps Engineer with over 1 year of experience in building and optimizing CI/CD pipelines, automating workflows, and ensuring seamless software delivery. I thrive in dynamic environments where technology and innovation intersect to drive impactful solutions.
 
-- 💼 DevOps Engineer at Blink Health
-- 📧 Connect with me: https://www.linkedin.com/in/vishal-%F0%9F%8C%A8%EF%B8%8F-273878192/
+
 
 ## Expertise
 
@@ -32,6 +30,6 @@ Repository: [Project 2 Repo](https://github.com/kushwahvishal939/Build-Ecommerce
 
 ## Get in Touch
 
-I'm always eager to connect with fellow developers and tech enthusiasts. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/vishal-%F0%9F%8C%A8%EF%B8%8F-273878192/) or email me at kushwahvishal939@gmail.com.
+I'm always eager to connect with fellow developers and tech enthusiasts. Feel free to reach out to me via email me at kushwahvishal939@gmail.com.
 
 Let's collaborate and build amazing things together! 🚀
